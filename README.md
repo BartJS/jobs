@@ -1,5 +1,7 @@
 # Jobbannonser via BartJS
 
+_[Post fra nettsidene til BartJS](http://bartjs.io/jobbannonser/)_
+
 Noen ganger rulle det inn forespørsel eller ønsker om å dele stillingsannonser via BartJS, både på [Slack](https://slack.bartjs.io) og [Facebook](https://www.facebook.com/bartjs.io). Noen ønsker også at vi sender ut e-post til de som er registrert på [Meetup-en](https://www.meetup.com/bartjs/).
 
 BartJS ønsker ikke å være noen som sender reklame til medlemmer. Samtidig ser vi at mange av de forespørselene kan være interessante for medlemmer av BartJS Meetupen. De er ofte Trondheimslokale og interessante for de som er opptatt av JavaScript og webutvikling. Mange er og i en slik størrelse at det kan være interessant for studenter som ønsker en deltidsstilling.
